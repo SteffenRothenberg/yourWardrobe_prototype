@@ -69,6 +69,7 @@
     </dependencies>
 
     <build>
+        <finalName>yourWardrobe</finalName>
         <plugins>
             <plugin>
                 <artifactId>maven-surefire-plugin</artifactId>
